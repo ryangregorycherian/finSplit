@@ -40,15 +40,15 @@ code, and everyone's synced in real time.
 
 | Onboarding | Dashboard | Add Expense |
 |:---:|:---:|:---:|
-| ![First launch](screenshots/first.png) | ![Dashboard](screenshots/dashboard.png) | ![Expense log](screenshots/expenselog.png) |
+| ![First launch](screenshots/first.jpeg) | ![Dashboard](screenshots/dashboard.jpeg) | ![Expense log](screenshots/expenselog.jpeg) |
 
 | Dashboard (settled) | Settlement confirmation | Activity Log |
 |:---:|:---:|:---:|
-| ![Dashboard 2](screenshots/dashboard2.png) | ![Settlement confirm](screenshots/settlementconfirm.png) | ![Activity log](screenshots/activitylog.png) |
+| ![Dashboard 2](screenshots/dashboard2.jpeg) | ![Settlement confirm](screenshots/settlementconfirm.jpeg) | ![Activity log](screenshots/activitylog.jpeg) |
 
 | Analytics | Settings | Second user's view |
 |:---:|:---:|:---:|
-| ![Analytics](screenshots/analytics.png) | ![Settings](screenshots/settingspage.png) | ![Other user view](screenshots/otheruserview.png) |
+| ![Analytics](screenshots/analytics.jpeg) | ![Settings](screenshots/settingspage.jpeg) | ![Other user view](screenshots/otheruserview.jpeg) |
 
 ---
 
