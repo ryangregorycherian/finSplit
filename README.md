@@ -48,7 +48,7 @@ code, and everyone's synced in real time.
 
 | Analytics | Settings | Second user's view |
 |:---:|:---:|:---:|
-| ![Analytics](screenshots/analytics.jpeg) | ![Settings](screenshots/settingspage.jpeg) | ![Other user view](screenshots/otheruserview.jpeg) |
+| ![Analytics](screenshots/analytics.jpeg) | ![Settings](screenshots/settingspage.jpeg) | ![Other user view](screenshots/otheruserview.png) |
 
 ---
 
